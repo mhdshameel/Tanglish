@@ -1,0 +1,14 @@
+D:\Opensource\Tamil to English transliteration\Tamil to English transliteration\Tamil to English transliteration\bin\Debug\netstandard2.0\Tamil to English transliteration.deps.json
+D:\Opensource\Tamil to English transliteration\Tamil to English transliteration\Tamil to English transliteration\bin\Debug\netstandard2.0\Tamil to English transliteration.dll
+D:\Opensource\Tamil to English transliteration\Tamil to English transliteration\Tamil to English transliteration\bin\Debug\netstandard2.0\ref\Tamil to English transliteration.dll
+D:\Opensource\Tamil to English transliteration\Tamil to English transliteration\Tamil to English transliteration\bin\Debug\netstandard2.0\Tamil to English transliteration.pdb
+D:\Opensource\Tamil to English transliteration\Tamil to English transliteration\Tamil to English transliteration\obj\Debug\netstandard2.0\Tamil to English transliteration.csprojAssemblyReference.cache
+D:\Opensource\Tamil to English transliteration\Tamil to English transliteration\Tamil to English transliteration\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Opensource\Tamil to English transliteration\Tamil to English transliteration\Tamil to English transliteration\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Opensource\Tamil to English transliteration\Tamil to English transliteration\Tamil to English transliteration\obj\Debug\netstandard2.0\Tamil to English transliteration.AssemblyInfoInputs.cache
+D:\Opensource\Tamil to English transliteration\Tamil to English transliteration\Tamil to English transliteration\obj\Debug\netstandard2.0\Tamil to English transliteration.AssemblyInfo.cs
+D:\Opensource\Tamil to English transliteration\Tamil to English transliteration\Tamil to English transliteration\obj\Debug\netstandard2.0\Tamil to English transliteration.csproj.CoreCompileInputs.cache
+D:\Opensource\Tamil to English transliteration\Tamil to English transliteration\Tamil to English transliteration\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Opensource\Tamil to English transliteration\Tamil to English transliteration\Tamil to English transliteration\obj\Debug\netstandard2.0\Tamil to English transliteration.dll
+D:\Opensource\Tamil to English transliteration\Tamil to English transliteration\Tamil to English transliteration\obj\Debug\netstandard2.0\ref\Tamil to English transliteration.dll
+D:\Opensource\Tamil to English transliteration\Tamil to English transliteration\Tamil to English transliteration\obj\Debug\netstandard2.0\Tamil to English transliteration.pdb
