@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tamil_to_English_transliteration.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Tamil Transliteration!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Editor Grid.Row="0" PlaceholderColor="Olive" Placeholder="Type the stuff you would like to transliterate" AutoSize="TextChanges" />
+            <Button Grid.Row="1" Text="Convert" Clicked="Button_Clicked"/>
+
+            <Label Grid.Row="2" 
+                   Background="Olive" 
+                   FontSize="20" 
+                   Padding="30,0,30,0"
+                   x:Name="ConvertedLbl"
+                   />
+            
+            <!--<Label FontSize="16" Padding="30,24,30,0">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span Text="Learn more at "/>
+                            <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold" />
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>-->
+        </Grid>
+    </StackLayout>
+
+</ContentPage>
