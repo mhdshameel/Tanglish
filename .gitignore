@@ -69,3 +69,9 @@ fastlane/readme.md
 Tamil to English transliteration/Tamil to English transliteration/obj
 Tamil to English transliteration/Tamil to English transliteration.Android/obj
 Tanglish transliteration/Tamil to English transliteration.Android/obj
+Tanglish transliteration/Tamil to English transliteration.iOS/obj/iPhoneSimulator/Debug
+Tanglish transliteration/Tamil to English transliteration/obj
+Tanglish transliteration/Tamil to English transliteration.iOS/obj
+*.v2
+*.suo
+*.user
